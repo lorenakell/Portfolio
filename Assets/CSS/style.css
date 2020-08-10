@@ -1,5 +1,5 @@
 body {
-    background-image: url(""
+    background-image: url("../images/background.jpg"
     background-repeat: repeat;
     font-family: Arial;
     font-size: 18px;
@@ -16,7 +16,7 @@ body {
 /* Sticky Footer /*
 
 #container {
-    min-height: cal(100vh - 264px);
+    min-height: calc(100vh - 264px);
 }
 
 /* General Styling */
