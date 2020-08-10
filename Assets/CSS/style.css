@@ -89,7 +89,7 @@ nav ul li:first-child a {
 
 .wrapper {
     width: 960px;
-    margin 0 auto;
+    margin: 0 auto;
     clear: both;
     overflow: hidden;
 }
