@@ -13,7 +13,7 @@ body {
 
 /* Main Page */
 
-/* Sticky Footer /*
+/* Sticky Footer */
 
 #container {
     min-height: calc(100vh - 264px);
@@ -32,7 +32,7 @@ h1, h2 {
 
 h1 {
     font-size: 30px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 2px solid #ccc;
 }
 
 h2 {
@@ -71,7 +71,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    line-height: 90 px;
+    line-height: 90px;
 }
 
 nav ul li a {
@@ -107,7 +107,7 @@ footer {
 .module {
     background-color: #fff;
     padding: 30px;
-    border: 12px;
+    border: 1px solid #ddd;
 }
 
 #content {
@@ -226,7 +226,7 @@ nav a:hover {
     color: #5e7f7e;
 }
 
-.social {
+.social:hover {
     cursor: pointer;
     opacity: 0.8;
 }
